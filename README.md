@@ -1,6 +1,5 @@
 # OBJECT RECOGNIZATION SYSTEM USING IMAGE PROCESSING
 ---
-
 ### **Abstract**  
 An object recognition system using image processing is a computer vision technology designed to automatically **identify and classify objects** within digital images or video streams.  
 
